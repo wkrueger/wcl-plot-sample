@@ -1,0 +1,10 @@
+.griditem {
+  &:hover {
+    background-color: #ccc;
+  }
+
+  &.selected {
+    border: solid green 3px;
+    font-weight: bold;
+  }
+}
