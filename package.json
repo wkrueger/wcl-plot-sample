@@ -17,7 +17,7 @@
     "dayjs": "^1.8.16",
     "isomorphic-fetch": "^2.2.1",
     "next": "9.0.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "plotly.js": "^1.49.4",
     "react": "16.9.0",
     "react-dom": "16.9.0",
